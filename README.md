@@ -85,7 +85,7 @@ The application will open in your web browser at `http://localhost:8501`.
 
 ### 2. Generate Sample Data
 
-1. Navigate to the "📊 Data Overview" page
+1. Navigate to the "Data Overview" page
 2. Click "Generate Sample Data" 
 3. Choose the number of transactions (default: 1000)
 4. Click the generate button
